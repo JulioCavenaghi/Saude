@@ -54,7 +54,7 @@ function exibirPropostas(propostas) {
 
 window.onload = function() {
     $('#voltar').click(function() {
-        window.location.href = '../index.html'
+        window.location.href = '../../index.html'
     });
     carregarPropostas();
 };
