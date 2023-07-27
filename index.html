@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>API de Planos e Preços</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>API de Planos e Preços</h1>
+    <label for="quantidade_beneficiarios">Quantidade de Beneficiários:</label>
+    <input type="text" id="quantidade_beneficiarios">
+    
+    <div id="beneficiarios"></div>
+
+    <label for="plano">Escolha um Plano:</label>
+    <select id="plano">
+      <option value="">Selecione o Plano</option>
+    </select>
+
+    <button onclick="calcularPreco()">Calcular Preço</button>
+    <button id="visualizar" style="float: right;">Visualizar Propostas</button>
+
+    <div id="result"></div>
+  </div>
+
+  <script src="js/validar.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="js/script.js"></script>
+
+</body>
+</html>

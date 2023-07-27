@@ -1,0 +1,50 @@
+[
+    {
+        "plano": "Bitix Customer Plano 1",
+        "beneficiarios": [
+            {
+                "nome": "RQ==bg==eg==bw==",
+                "idade": "MQ==Mg==",
+                "preco": "9.00"
+            },
+            {
+                "nome": "Qw==YQ==cg==bA==bw==cw==",
+                "idade": "Mg==Nw==",
+                "preco": "11.00"
+            },
+            {
+                "nome": "TQ==YQ==cg==aQ==bw==",
+                "idade": "NQ==Nw==",
+                "preco": "14.00"
+            },
+            {
+                "nome": "Ug==bw==Yg==ZQ==cg==dA==bw==",
+                "idade": "Nw==Ng==",
+                "preco": "14.00"
+            }
+        ],
+        "totalPlano": 48
+    },
+    {
+        "plano": "Bitix Customer Plano 1",
+        "beneficiarios": [
+            {
+                "nome": "Sg==dQ==bA==aQ==bw==",
+                "idade": "Mg==Mg==",
+                "preco": "12.00"
+            }
+        ],
+        "totalPlano": 12
+    },
+    {
+        "plano": "Bitix Customer Plano 1",
+        "beneficiarios": [
+            {
+                "nome": "Sg==dQ==bA==aQ==bw==",
+                "idade": "Mg==Mg==",
+                "preco": "12.00"
+            }
+        ],
+        "totalPlano": 12
+    }
+]
